@@ -1,0 +1,2 @@
+# uts
+UTS Kecerdasan Komputational
